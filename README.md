@@ -1,8 +1,7 @@
 ### Hi there, I'm Wesam Alkfere [wesam-k][website] 👋
 
 ## I'm a Front-End Developer!
-- 🔭  &emsp; Currently working on a VS Code 
-- 🌱  &emsp; Currently learning everything 🤣
+- 🌱  &emsp; Trying to learning everything 🤣
 - 👯  &emsp; looking to become as professional Developer
 - 🥅  &emsp; 2021 Goals: learn new tools and techniques as much as I can 
 - ⚡  &emsp; Fun fact: hiking and traveling
