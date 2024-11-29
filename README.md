@@ -2,7 +2,7 @@
 
 ## I'm a Front-End Developer!
 - 🥅  &emsp; Goals: Don't give up and learn new tools and techniques as much as I can 
-- ⚡  &emsp; Fun fact: hiking and travelling 
+- ⚡  &emsp; Fun fact: Hiking and Travelling 
 > Quote: Never lose your enthusiasm to learn something new every day
 ---
 ### Connect with me:
