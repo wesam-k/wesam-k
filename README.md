@@ -1,8 +1,8 @@
 ### Hi there, I'm Wesam Alkfere [wesam-k][website] 👋
 
 ## I'm a Front-End Developer!
-- 🥅  &emsp; Goals: Dont give up and learn new tools and techniques as much as I can 
-- ⚡  &emsp; Fun fact: hiking and traveling
+- 🥅  &emsp; Goals: Don't give up and learn new tools and techniques as much as I can 
+- ⚡  &emsp; Fun fact: hiking and travelling 
 > Quote: Never lose your enthusiasm to learn something new every day
 ---
 ### Connect with me:
